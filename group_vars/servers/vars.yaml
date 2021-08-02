@@ -1,0 +1,8 @@
+tomcat_version: 9.0.43
+tomcat_users:
+- name: "tomcat"
+  password: "t3mpp@ssw0rd"
+  roles: "tomcat,admin,manager,manager-gui"
+- name: "operator"
+  password: "us3rp@ssw0rd"
+  roles: "tomcat"   

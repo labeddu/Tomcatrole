@@ -1,0 +1,4 @@
+---
+ansible_host: 13.250.21.141
+ansible_user: ubuntu
+ansible_ssh_private_key_file: ~/app01_yus01.pem
